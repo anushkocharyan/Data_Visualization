@@ -1,2 +1,2 @@
-# Data_Vis
-This repository includes the Final Project for the Data Visualization Class. The interactive map is the bubble_map.html file. 
+# Data_Visualization
+This repository is created for the Data Visualization course's final project. Please check the Project_Report.pdf file to see the generated plots.  
